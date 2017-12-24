@@ -1,7 +1,7 @@
 #ifndef SL025M_H
 #define SL025M_H
 
-#include <WProgram.h>
+#include <Arduino.h>
 
 #define BLOCK_SIZE 16
 
